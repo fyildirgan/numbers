@@ -1,0 +1,1 @@
+# Pyhton kullanarak data science çalışıyorum, öğrendiğim tüm bilgiler burada yer alacak.
